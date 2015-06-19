@@ -10,6 +10,7 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
 
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+
 1.Date: Date in format dd/mm/yyyy 
 2.Time: time in format hh:mm:ss 
 3.Global_active_power: household global minute-averaged active power (in kilowatt) 
